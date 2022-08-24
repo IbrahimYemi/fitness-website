@@ -1,0 +1,18 @@
+export default [
+  'https://media.istockphoto.com/photos/shot-of-a-group-of-friends-hanging-out-before-working-out-together-picture-id1366052585?k=20&m=1366052585&s=612x612&w=0&h=DNwRwXo85Q72AhznVK7lNnJwBkYnILBVFnciKh6l7wA=',
+  'https://media.istockphoto.com/photos/mixed-race-woman-exercising-in-park-with-mature-friends-picture-id1319768894?k=20&m=1319768894&s=612x612&w=0&h=EgLp8LSV591IKLrgzZiDVwHi5NuTq1Gu5wmjUMda9OM=',
+  'https://media.istockphoto.com/photos/it-feels-good-to-do-something-good-for-yourself-picture-id1310060514?k=20&m=1310060514&s=612x612&w=0&h=3DXvrCSmYH8hSvOZwxYYzwDcLLNg9j5Y7gatpCEA2uY=',
+  'https://media.istockphoto.com/photos/fitness-instructor-guiding-young-woman-when-she-exercises-picture-id1137413164?k=20&m=1137413164&s=612x612&w=0&h=p2XDvediJn2tdionq90PU6q58a7RsKdkZglW6jEb3_k=',
+  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9DXWgvcLiS7k0o-y3ilHJaTg8OirqhlLBUQ&usqp=CAU',
+  'https://media.istockphoto.com/photos/asian-indian-mid-adult-macho-man-practicing-battle-rope-in-gym-picture-id1332405544?k=20&m=1332405544&s=612x612&w=0&h=j3Tq6sNi-7XYnbhp_IXiEkW_AejaIWj8VovnaHIdGWk=',
+  'https://media.istockphoto.com/photos/gym-picture-id1345228934?k=20&m=1345228934&s=612x612&w=0&h=T9a52iBD4ViAegM7aWriFdFunVBJDpeL3PBiyf6K3d4=',
+  'https://media.istockphoto.com/photos/black-female-athlete-doing-stretching-exercises-while-warming-up-with-picture-id1339701353?k=20&m=1339701353&s=612x612&w=0&h=9thWDXM4Ltl0-0TJRq2ayi0NDBaxZjlrl3hfxMvVCkU=',
+  'https://media.istockphoto.com/photos/hispanic-group-dance-fitness-class-picture-id1343284990?k=20&m=1343284990&s=612x612&w=0&h=-d-GH5rFWk6xz1OMPM8hvlZu0yL8vTRoucigMJS2leM=',
+  'https://media.istockphoto.com/photos/group-of-gymters-greeting-on-the-way-in-to-workout-picture-id1360097745?k=20&m=1360097745&s=612x612&w=0&h=83XL9fEIGIPY9VPNLeFdBaEdHVUPgdDik_6-z-yrgNo=',
+  'https://media.istockphoto.com/photos/asian-female-athlete-doing-weight-exercises-for-upper-body-strength-picture-id1355695983?k=20&m=1355695983&s=612x612&w=0&h=WKyAYBVPhVs2txe6bxve6py7RsobnI25fOJjnnzwn8I=',
+  'https://media.istockphoto.com/photos/gym-training-on-stationary-bikes-picture-id1127485222?k=20&m=1127485222&s=612x612&w=0&h=wzWoGpmwRx3b1MdBtzNEUuLe5_KLuC27Sg2O_sRZ9h4=',
+  'https://media.istockphoto.com/photos/shot-of-a-group-of-sporty-young-people-doing-pushups-and-renegade-picture-id1337511327?k=20&m=1337511327&s=612x612&w=0&h=w0jtZkG8ZtonhgV2anj7MF9KwRCTc6Y58WXxYeQ9cKw=',
+  'https://media.istockphoto.com/photos/rear-view-body-macho-men-running-treadmill-together-in-gym-at-night-picture-id1332405623?k=20&m=1332405623&s=612x612&w=0&h=pvpuvr2U6VQy3-CsRuOqTIfv8qHBoBtz7TcECFWsuM4=',
+  'https://media.istockphoto.com/photos/people-exercising-with-fitness-trainer-picture-id1320921688?k=20&m=1320921688&s=612x612&w=0&h=QhHR4_DOAGNgF59MwSmohT-KkmqUmP3LmmsCbI3gKsI=',
+  'https://media.istockphoto.com/photos/happy-women-attending-group-fitness-class-picture-id1344807235?k=20&m=1344807235&s=612x612&w=0&h=NOTSOtMYqzljAqPXHuWPgz5E5CrMQHLtA4qXWL4sg5Y=',
+];

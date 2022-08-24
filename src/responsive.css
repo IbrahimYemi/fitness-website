@@ -1,0 +1,161 @@
+@media only screen and (max-width: 700px) {
+  nav .div {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 3.5rem;
+    left: 0;
+    padding: 1rem;
+    background: var(--tertiary);
+    box-shadow: 0px 2px 3px var(--black);
+    width: 100%;
+    height: auto;
+  }
+  nav .div ul {
+    display: flex;
+    flex-direction: column;
+  }
+  nav .div ul li {
+    text-align: left;
+    width: max-content;
+    margin: 1rem;
+  }
+
+  nav .div.show {
+    display: flex;
+  }
+
+  nav .bar-holder {
+    display: block;
+  }
+
+  nav .bar-holder .bars {
+    display: block;
+    height: auto;
+    border: 1px solid var(--secondary);
+  }
+
+  .combined-home .home {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 1.5rem;
+  }
+
+  .combined-home .home .word-page {
+    inline-size: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 1rem auto;
+  }
+
+  .combined-home .home .word-page h3 {
+    text-align: center;
+  }
+
+  .combined-home .home .word-page p {
+    text-align: center;
+  }
+
+  .combined-home .home .word-page .btn {
+    margin: auto;
+  }
+
+  .combined-home .home .picture-side {
+    width: 100%;
+  }
+
+  .combined-home .services {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    height: 100%;
+    margin: 2rem 1rem;
+  }
+  .combined-home .services .statement {
+    width: 100%;
+    text-align: center;
+  }
+  .combined-home .services .cards {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .combined-home .services .cards .card {
+    margin: 1rem auto;
+  }
+
+  .combined-home .services .image {
+    width: 100%;
+    margin: 1rem auto;
+  }
+
+  .combined-home .faq {
+    padding: 2rem;
+  }
+  .combined-home .faq .faq-body {
+    grid-template-columns: repeat(1, 18rem);
+  }
+
+  .combined-home .faq .faq-body .body .answer {
+    font-size: 0.8rem;
+    margin: 1rem;
+    padding: 0.7rem;
+  }
+
+  .subscribe {
+    flex-direction: column;
+    padding: 2rem;
+    margin: 2rem;
+  }
+
+  .subscribe .text {
+    width: 100%;
+    text-align: center;
+    margin: 1rem 0;
+  }
+
+  .subscribe .design {
+    width: 100%;
+    margin: auto;
+  }
+
+  .footer {
+    flex-direction: column;
+  }
+
+  .footer .subscribe {
+    padding: 1rem;
+  }
+
+  .footer > * {
+    width: 100%;
+    margin: 1rem 0;
+  }
+
+  /* EXTRA */
+  .about {
+    grid-template-columns: 20rem;
+    grid-template-rows: auto;
+  }
+  .about .about-image {
+    display: flex;
+    flex-direction: column;
+  }
+  .about .about-image .about-uts {
+    margin: 1rem 0;
+  }
+
+  .gallery {
+    grid-template-columns: repeat(2, 10rem);
+    grid-gap: 1rem;
+  }
+
+  .pricing .price {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .trainers .train {
+    display: flex;
+    flex-direction: column;
+  }
+}

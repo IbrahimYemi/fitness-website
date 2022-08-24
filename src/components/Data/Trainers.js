@@ -1,0 +1,58 @@
+export default [
+  {
+    id: 1,
+    name: 'Alex Morgan',
+    age: 34,
+    rating: 4.5,
+    img: 'https://media.istockphoto.com/photos/am-getting-better-day-by-day-picture-id1311330212?k=20&m=1311330212&s=612x612&w=0&h=oHcADju2eYgQzzqoOViOnDwYHs1Tfyl1eBFp4JN8UP0=',
+  },
+  {
+    id: 2,
+    name: 'David Preston',
+    age: 43,
+    rating: 4.5,
+    img: 'https://media.istockphoto.com/photos/have-the-freedom-to-choose-my-running-ground-picture-id499778751?k=20&m=499778751&s=612x612&w=0&h=6x7FxTi-GRCHYkcQuWWriPq8P-dtuOO3GJOwKkaC9jg=',
+  },
+  {
+    id: 3,
+    name: 'Suraj Anand',
+    age: 49,
+    rating: 4.8,
+    img: 'https://media.istockphoto.com/photos/smiling-mixed-race-mature-man-on-grey-background-picture-id1319763895?k=20&m=1319763895&s=612x612&w=0&h=kdi1vWYAjSj4jOL5UPFPERsfid2gPkwZN8TCYWycmnA=',
+  },
+  {
+    id: 4,
+    name: 'Scott Mavis',
+    age: 28,
+    rating: 4.2,
+    img: 'https://media.istockphoto.com/photos/active-african-american-man-running-picture-id484692236?k=20&m=484692236&s=612x612&w=0&h=mRBR2fQoJvtJr9CqpX3zikExn0n4ZtU2bvAVi6Kb8hc=',
+  },
+  {
+    id: 5,
+    name: 'Adam Jonhson',
+    age: 36,
+    rating: 4.7,
+    img: 'https://media.istockphoto.com/photos/man-training-and-stretching-arm-at-home-picture-id1299770398?k=20&m=1299770398&s=612x612&w=0&h=h9Hhu1wfTdfnighfTjuCG6dxCAhAMVs7r4prXVP0gX8=',
+  },
+  {
+    id: 6,
+    name: 'Mary Delux',
+    age: 36,
+    rating: 4.8,
+    img: 'https://media.istockphoto.com/photos/happy-female-runner-jogging-in-the-morning-in-nature-picture-id1142900322?k=20&m=1142900322&s=612x612&w=0&h=gAuqPVnVJkiH0Qk4AyY3nFO-blh0wtUkey-VTesRzjo=',
+  },
+  {
+    id: 7,
+    name: 'Alecia John',
+    age: 28,
+    rating: 4.4,
+    img: 'https://media.istockphoto.com/photos/fitness-woman-exercising-outdoors-picture-id1308574122?k=20&m=1308574122&s=612x612&w=0&h=vCNRhnHlTzsueAptXvb1alf-l3ybpFxodK4KbLSo5-Q=',
+  },
+  {
+    id: 8,
+    name: 'Pretty Kumar',
+    age: 32,
+    rating: 4.5,
+    img: 'https://media.istockphoto.com/photos/shot-of-a-young-woman-going-through-a-boxing-workout-routine-in-a-gym-picture-id1336214679?k=20&m=1336214679&s=612x612&w=0&h=p3Ihp07KbbciaVQtL5-e7uZGKcVAx1T4uML17ctANAY=',
+  },
+];
