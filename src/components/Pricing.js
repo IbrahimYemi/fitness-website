@@ -4,7 +4,7 @@ import Price from '../components/Data/Pricing';
 export default function Pricing() {
   const pricing = Price.map((item) => {
     return (
-      <div key={item.keys} className="card">
+      <div key={item.id} className="card">
         <div className="top">
           <span className="icon">
             <i className={item.logo}></i>

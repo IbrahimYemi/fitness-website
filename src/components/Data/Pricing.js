@@ -4,14 +4,14 @@ export default [
     name: 'Basic',
     rating: 'popular',
     overview: 'This will provide you access to our basic equipments',
-    logo: 'fa-solid fa-chess-bishop',
+    logo: 'fa-solid fa-chess-board',
   },
   {
     id: 2,
     name: 'Medium',
     rating: 'popular',
     overview: 'This service include the basic with some specs of refreshment',
-    logo: 'fa-solid fa-crown',
+    logo: 'fa-solid fa-chess-bishop',
   },
   {
     id: 3,
