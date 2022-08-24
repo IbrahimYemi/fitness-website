@@ -31,7 +31,7 @@ export default function Faq() {
   return (
     <div className="faq">
       <h2>
-        <i class="fa-solid fa-circle-question"></i> FAQs
+        <i className="fa-solid fa-circle-question"></i> FAQs
       </h2>
       <div className="faq-body">{faqs}</div>
     </div>
