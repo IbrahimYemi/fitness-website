@@ -1,6 +1,6 @@
 import React, { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
-import './responsive.css';
+import './responsive.scss';
 
 import App from './App';
 
